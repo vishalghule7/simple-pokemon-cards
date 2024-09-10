@@ -39,7 +39,7 @@ Make sure you have the following installed:
 2. **Navigate to the Project Directory:**
    - This helps the user navigate to the project folder after cloning.
 3. **Install Dependencies:** 
-   - The command to install all required dependencies using `npm`.
+   - The command to install all required dependencies using `npm i`.
 4. **Run the Development Server:** 
    - Instructions to start the development server using `npm run dev`.
 

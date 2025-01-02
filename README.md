@@ -35,7 +35,7 @@ Make sure you have the following installed:
 
 ### Instructions:
 1. **Clone the Repository:** 
-   - This section explains how to download the project using Git.
+   - This section explains how to download the project with Git.
 2. **Navigate to the Project Directory:**
    - This helps the user navigate to the project folder after cloning.
 3. **Install Dependencies:** 
